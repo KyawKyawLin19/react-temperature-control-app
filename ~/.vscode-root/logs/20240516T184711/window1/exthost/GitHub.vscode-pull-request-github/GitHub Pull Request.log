@@ -1,0 +1,32 @@
+2024-05-16 18:47:13.362 [warning] /root/.ssh/config: ENOENT: no such file or directory, open '/root/.ssh/config'
+2024-05-16 18:47:13.362 [info] Activation> Extension version: 0.88.1
+2024-05-16 18:47:13.362 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/kyawkyawlin/React_Projects/react-temperature-control-app/~/.vscode-root/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-05-16 18:47:13.393 [info] Looking for git repository
+2024-05-16 18:47:13.393 [info] Found 0 repositories during activation
+2024-05-16 18:47:13.393 [info] Git repository found, initializing review manager and pr tree view.
+2024-05-16 18:47:15.391 [info] Registering git provider
+2024-05-16 18:47:15.447 [info] Repository file:///home/kyawkyawlin/React_Projects/react-temperature-control-app has been opened
+2024-05-16 18:47:15.490 [info] Git initialization state changed: state=initialized
+2024-05-16 18:47:15.490 [info] Review+0> Validate state in progress
+2024-05-16 18:47:15.490 [info] Review+0> Validating state...
+2024-05-16 18:47:15.490 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-16 18:47:15.490 [info] No GitHub remotes found for folder /home/kyawkyawlin/React_Projects/react-temperature-control-app
+2024-05-16 18:47:15.491 [info] Trying to use globalState for assignableUsers.
+2024-05-16 18:47:15.502 [info] Review+0> Queuing additional validate state
+2024-05-16 18:47:15.502 [info] Repo state for file:///home/kyawkyawlin/React_Projects/react-temperature-control-app changed.
+2024-05-16 18:47:15.502 [info] Repo file:///home/kyawkyawlin/React_Projects/react-temperature-control-app has already been setup.
+2024-05-16 18:47:15.516 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-05-16 18:47:15.516 [info] GlobalState does not exist for assignableUsers.
+2024-05-16 18:47:15.539 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-05-16 18:47:15.630 [info] Review+0> Validating state...
+2024-05-16 18:47:15.631 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-05-16 18:47:15.631 [info] No GitHub remotes found for folder /home/kyawkyawlin/React_Projects/react-temperature-control-app
+2024-05-16 18:47:15.631 [info] Using in-memory cached assignable users.
+2024-05-16 18:47:15.639 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-05-16 18:47:15.644 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-05-16 19:02:01.458 [info] Review+0> Validate state in progress
+2024-05-16 19:02:01.458 [info] Review+0> Validating state...
+2024-05-16 19:02:01.491 [info] Found GitHub remote for folder /home/kyawkyawlin/React_Projects/react-temperature-control-app
+2024-05-16 19:02:01.493 [info] Using in-memory cached assignable users.
+2024-05-16 19:02:01.501 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-05-16 19:02:01.502 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
